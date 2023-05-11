@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\_basket.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_basket.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\_hr.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_hr.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\_internetbanking.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_internetbanking.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\_services.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\Anuphan-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\Anuphan-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\font\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\font\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\font\\static\\Anuphan-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\static\\Anuphan-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\EHP.png",
+      "PackagePath": "staticwebassets\\assets\\image\\EHP.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\Toplabanner.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\Toplabanner.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\adif.png",
+      "PackagePath": "staticwebassets\\assets\\image\\adif.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\app-gallery.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\app-gallery.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\appbar2.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\appbar2.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\appstore.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\azn-dovriyye.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\azn-dovriyye.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\azn.png",
+      "PackagePath": "staticwebassets\\assets\\image\\azn.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\callcenter.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\callcenter.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\albali debet.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\albali debet.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\albali.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\albali.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\digitalcard.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\digitalcard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\mastercard balcak.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\mastercard balcak.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\mastercard world.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\mastercard world.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\ucard debet.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\ucard debet.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\ucard gift.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\ucard gift.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\unimiles.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\unimiles.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\visa infinite.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\visa infinite.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cards\\visa platinum.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\cards\\visa platinum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\cover-ne.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\cover-ne.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\digerbank.gif",
+      "PackagePath": "staticwebassets\\assets\\image\\digerbank.gif"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\ehpp.png",
+      "PackagePath": "staticwebassets\\assets\\image\\ehpp.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\euro.png",
+      "PackagePath": "staticwebassets\\assets\\image\\euro.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\gbp.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\gbp.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\ib.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\ib.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\ib2.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\ib2.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\infobank.png",
+      "PackagePath": "staticwebassets\\assets\\image\\infobank.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\location.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\location.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\logo-orange.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\logo-orange.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\main-logo.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\main-logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\msp.png",
+      "PackagePath": "staticwebassets\\assets\\image\\msp.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\pico.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\pico.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\playstore.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\playstore.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\qrCode.png",
+      "PackagePath": "staticwebassets\\assets\\image\\qrCode.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\rub.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\rub.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\staff1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\staff1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\staff2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\staff2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\ucard.webp",
+      "PackagePath": "staticwebassets\\assets\\image\\ucard.webp"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\usd.png",
+      "PackagePath": "staticwebassets\\assets\\image\\usd.png"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\image\\video bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\video bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\appp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\appp.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\internetbanking.js",
+      "PackagePath": "staticwebassets\\assets\\js\\internetbanking.js"
+    },
+    {
+      "Id": "C:\\Users\\kubra.mammadova\\Desktop\\TASK2-ASP\\wwwroot\\assets\\js\\services.js",
+      "PackagePath": "staticwebassets\\assets\\js\\services.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TASK2-ASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TASK2-ASP.props",
+      "PackagePath": "build\\TASK2-ASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TASK2-ASP.props",
+      "PackagePath": "buildMultiTargeting\\TASK2-ASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TASK2-ASP.props",
+      "PackagePath": "buildTransitive\\TASK2-ASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
